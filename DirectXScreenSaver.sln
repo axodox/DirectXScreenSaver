@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectXScreenSaver", "DirectXScreenSaver\DirectXScreenSaver.csproj", "{033E6BDE-0A42-4654-B1C5-CF979381C92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoHUD", "InfoHUD\InfoHUD.csproj", "{16C04E42-AF05-43F3-86AD-9714FC7A3467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoCore", "InfoCore\InfoCore.csproj", "{2332DD3A-DE5D-41E7-8607-7FB7F5F43ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS", "RSS\RSS.csproj", "{66BBDCDB-0D59-4BEB-A7BD-4E16CE3A214E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033E6BDE-0A42-4654-B1C5-CF979381C92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033E6BDE-0A42-4654-B1C5-CF979381C92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033E6BDE-0A42-4654-B1C5-CF979381C92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033E6BDE-0A42-4654-B1C5-CF979381C92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C04E42-AF05-43F3-86AD-9714FC7A3467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C04E42-AF05-43F3-86AD-9714FC7A3467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C04E42-AF05-43F3-86AD-9714FC7A3467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C04E42-AF05-43F3-86AD-9714FC7A3467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2332DD3A-DE5D-41E7-8607-7FB7F5F43ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2332DD3A-DE5D-41E7-8607-7FB7F5F43ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2332DD3A-DE5D-41E7-8607-7FB7F5F43ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2332DD3A-DE5D-41E7-8607-7FB7F5F43ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BBDCDB-0D59-4BEB-A7BD-4E16CE3A214E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BBDCDB-0D59-4BEB-A7BD-4E16CE3A214E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BBDCDB-0D59-4BEB-A7BD-4E16CE3A214E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BBDCDB-0D59-4BEB-A7BD-4E16CE3A214E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

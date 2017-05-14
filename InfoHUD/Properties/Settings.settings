@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InfoHUD.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HUDObjects" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Logo:0,0|CPURAM:5,0|IP:9,0|NET:9,1|Clock:55,0|RSS:25,0|Date:17,1|User:17,0</Value>
+    </Setting>
+    <Setting Name="HUDSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">60, 2</Value>
+    </Setting>
+    <Setting Name="IONETInterface" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Intel[R] Wireless WiFi Link 4965AGN</Value>
+    </Setting>
+    <Setting Name="IORSSFeeds" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;http://index.hu/24ora/rss/&lt;/string&gt;
+  &lt;string&gt;http://rss.groups.yahoo.com/group/mechatronika20082009m2/rss&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
